@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Ahmed Sobhi</h1>
 
 <p>
-  A passionate <b>Full-Stack Developer</b> and <b>Microsoft Dynamics 365 CRM Consultant</b> who loves building scalable web apps, clean architectures, and modern UI experiences.
+  A passionate <b>Full-Stack Developer</b> and <b>Microsoft Dynamics 365 CRM Developer</b> who loves building scalable web apps, clean architectures, and modern UI experiences.
 </p>
 
 ---
