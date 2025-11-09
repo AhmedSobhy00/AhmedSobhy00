@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">A passionate .NET Full-Stack and Microsoft Dynamics 365 CRM Developer who loves building scalable web applications, clean architectures, and modern UI experiences with passion for continuous learning.</h4>
+<h4 align="center">A passionate .NET Full-Stack and Microsoft Dynamics 365 CRM Developer who loves building scalable web applications, clean architectures, and modern UI experiences  with a strong passion for continuous learning and growth.</h4>
 
 ###
 
@@ -95,7 +95,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedSobhy00&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedSobhy00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedSobhy00&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&color=ffffff&line=99c8ff&point=ffffff" height="280" alt="activity-graph graph"  />
 </div>
