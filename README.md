@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">A passionate Full-Stack and MS Dynamics 365 CRM Developer who loves building scalable web applications, clean architectures, and modern responsive UI designs with a strong passion for continuous learning.</h3>
+<h3 align="center">A passionate Full-Stack and MS Dynamics 365 CRM Developer who loves building scalable web applications, clean architectures, and modern responsive UI/UX designs with a strong passion for continuous learning.</h3>
 
 ###
 
