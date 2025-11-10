@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">.NET Full Stack and Microsoft Dynamics CRM Developer skilled in building scalable web applications and CRM solutions using .NET Core, Angular, and Power Platform. Strong in RESTful API development, clean architecture, and UI/UX principles, with a passion for learning and delivering high-quality software.</h3>
+<h3 align="center">.NET Full Stack and MS Dynamics CRM Developer skilled in building scalable web applications and CRM solutions using .NET Core, Angular, and Power Platform, with a passion for learning and delivering high-quality software.</h3>
 
 ###
 
